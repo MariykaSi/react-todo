@@ -1,0 +1,9 @@
+export const GET_TASK_START = "GET_TASK_START";
+export const GET_TASK_SUCCESS = "GET_TASK_SUCCESS";
+export const GET_TASK_ERROR = "GET_TASK_ERROR";
+
+export const POST_TASK_START = "POST_TASK_START";
+export const POST_TASK_ERROR = "POST_TASK_ERROR";
+
+export const EDIT_TASK_START = "EDIT_TASK_START";
+export const EDIT_TASK_ERROR = "EDIT_TASK_ERROR";
